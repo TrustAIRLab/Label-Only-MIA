@@ -35,6 +35,7 @@ Set ```args.action``` to run the following attacks.
 ```action=4``` AdversaryTwo(args)
 
 ### Calculate the Radius to the Decision Boundary.
+```action=5``` Decision_Radius(args)
 
 ## Citation
 ```bibtex
