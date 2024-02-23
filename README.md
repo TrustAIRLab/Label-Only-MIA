@@ -16,6 +16,7 @@ numpy<1.24.0
 foolbox==3.0.0
 adversarial-robustness-toolbox==1.5.0
 scipy==1.7.0
+runx==0.0.11
 ```
 For others, please install the latest version.
 
