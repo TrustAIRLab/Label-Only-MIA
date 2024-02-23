@@ -11,6 +11,8 @@ Users should install Python3 and PyTorch at first. We recommend using conda to i
 
 Specifically, please follow the requirements below:
 ```
+python==3.8
+pytorch==2.2.0
 numpy<1.24.0
 foolbox==3.0.0
 adversarial-robustness-toolbox==1.5.0
