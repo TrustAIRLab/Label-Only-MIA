@@ -7,11 +7,10 @@ This is the code for our ACM CCS 21 paper [Membership Leakage in Label-Only Expo
 We propose the first label-only membership inference attack that solely relies on the final prediction of the target model, i.e., the predicted label, as their attack model’s input.
 
 ## Prepare
-Users should install Python3 and PyTorch at first. We recommend using conda to install it based on the official documents.
+Users should install Python3.8 and PyTorch at first. We recommend using conda to install it based on the official documents.
 
 Specifically, please follow the requirements below:
 ```
-python==3.8
 pytorch==2.2.0
 numpy<1.24.0
 foolbox==3.0.0
